@@ -1,6 +1,6 @@
 # How to Clear Cache on Ipad
 
-[![how to clear cache on ipad](redd.png)](https://github.com/coreencode/how.to.clear.cache.on.ipad)
+[![how to clear cache on ipad](redd.png)](https://icncomputer.com/how-to-clear-cache-on-ipad/)
 
 
 
